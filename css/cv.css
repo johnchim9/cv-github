@@ -1,0 +1,123 @@
+body{ 
+	background-image:url(../image/johnchim2.jpg);
+	 background-position:center; 
+	 background-repeat: no-repeat; 
+	 background-size: cover;
+	}
+	.new{
+		color: darkgreen;
+	}
+	.intro{
+		background-image: url(../image/john3.jpg);
+		width: 1350px;
+		background-repeat: no-repeat;
+		}
+	.subheading{
+		font-weight: bold; font-style: italic; font-size: 50px;
+	}
+	.black{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.green{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.red{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.blue{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.white{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.purple{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.yellow{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.data{
+		font-weight: bold;
+		 font-style: italic;  
+		 width: 1000px;
+		 font-size: 45px; 
+		background-image: url(../image/john4.jpg);
+		background-repeat: no-repeat;
+	 }
+	 .new{
+	 	font-weight: bold; 
+	 	font-style: italic; 
+	 	font-size: 30px;
+	 }
+	.subheading{
+		font-weight: bold;
+	    font-style: italic; 
+	    font-size: 50px;
+	}
+	.skill_name{
+		font-weight: bold; 
+		font-style: italic; 
+		font-size: 45px; 
+		background-image: url(../image/john3.jpg);
+		background-repeat: no-repeat;
+		color: black;
+		width: 1000px;
+	}
+	.date{
+		 font-weight: bold;
+	     font-style: italic; 
+	     font-size: 40px; 
+	    background-image: url(../image/john3.jpg);
+		background-repeat: no-repeat; 
+	     width: 800px;"
+	}
+	.jobdesc{
+		font-weight: bold; 
+        font-style: italic; 
+	    font-size: 40px;
+	   background-image: url(../image/john3.jpg);
+		background-repeat: no-repeat; 
+	    width: 800px;
+	}
+	.icon{ 
+		width:30px; 
+		display: inline;
+	}
+	.dead{
+		 font-weight: bold; 
+		 font-style: italic; 
+		 font-size: 30px; 
+	background-image: url(../image/john3.jpg);
+		background-repeat: no-repeat;
+		 color: blue;
+		 width: 150px; 
+		 display: inline;
+	}
